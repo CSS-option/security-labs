@@ -1,0 +1,7 @@
+dvwa
+DVWA
+demonstration
+myadmin
+phpmyadmin
+config
+setup
